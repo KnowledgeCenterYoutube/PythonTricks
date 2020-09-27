@@ -1,3 +1,8 @@
+# --------------------------------------------------------
+# Knowledge Center
+# Build Audiobook in Python
+# Detailed video Explanation: https://youtu.be/hRmJ7GFNFW8
+# --------------------------------------------------------
 
 import pyttsx3
 import PyPDF2
